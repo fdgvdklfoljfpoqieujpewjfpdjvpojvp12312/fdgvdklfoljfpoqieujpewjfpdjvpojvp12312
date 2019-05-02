@@ -1,0 +1,30 @@
+ h1{
+    	color:red ;
+    	font-style:italic;
+    	text-align: center;
+        }
+
+     table td{
+        
+         border:1px solid black;
+         margin:auto;
+         text-align:center;
+           }
+       table {
+       	margin:auto;
+       }
+       .odn{
+       	 text-align:center;
+       	 font-style:italic;
+
+         }
+        .osobs{
+        	text-align:center;
+        	background-color:lightblue;
+        	color:red ;
+        	font-weight: bold;
+        }
+        .slova {
+        	color:red ;
+
+        }
